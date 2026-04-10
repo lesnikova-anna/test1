@@ -1,4 +1,4 @@
-testing  file
+testing line
 untesting file
 commit test
 test
@@ -7,3 +7,4 @@ untesting file
 789.
 Add line
 new branch line
+new line for gui
